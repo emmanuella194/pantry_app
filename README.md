@@ -2,6 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## const firebaseConfig = {
+ ## apiKey: "AIzaSyAUH3xVvvirFvI_g98f8dGRgD6VCizCLmE",
+##  authDomain: "thepantryapp-b9a35.firebaseapp.com",
+ ## projectId: "thepantryapp-b9a35",
+  ## storageBucket: "thepantryapp-b9a35.appspot.com",
+## messagingSenderId: "229490784987",
+ ## appId: "1:229490784987:web:2f2911cabd117b29562afe"
+## };
+
+
 First, run the development server:
 
 ```bash
