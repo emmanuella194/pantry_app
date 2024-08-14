@@ -27,6 +27,8 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
@@ -35,5 +37,12 @@ body {
 
 
 *{
-  background-color:black;
+ 
+  color:black;
+  opacity: 1;
+}
+
+
+button{
+  color:blue;
 }
